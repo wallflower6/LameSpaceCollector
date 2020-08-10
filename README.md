@@ -15,6 +15,8 @@ https://opengameart.org/content/bombexplosion8bit <br>
 https://opengameart.org/content/8-bit-sound-effects-library <br>
 https://opengameart.org/content/ui-set-1 <br>
 
+<br>
+
 ![](GuideScreenshot.png)
 <br>
 ![](LevelScreenshot.gif)
