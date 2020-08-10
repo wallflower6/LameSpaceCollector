@@ -17,8 +17,8 @@ https://opengameart.org/content/ui-set-1 <br>
 
 <br>
 
-![](GuideScreenshot.png)
+![](GuideScreenshot.png | width=100)
 <br>
-![](LevelScreenshot.gif)
+![](LevelScreenshot.gif | width=100)
 <br>
 
