@@ -17,7 +17,7 @@ https://opengameart.org/content/ui-set-1 <br>
 
 <br>
 
-![](GuideScreenshot.png =250x250)
+<img src="github.com/wallflower6/LameSpaceCollector/GuideScreenshot.png" width=100px />
 <br>
 ![](LevelScreenshot.gif =250x250)
 <br>
